@@ -1,0 +1,48 @@
+[
+  {
+    "attendees": [],
+    "date": "2024-06-15",
+    "time": "10:00",
+    "topic": "Q3 goals",
+    "status": "scheduled",
+    "created_at": "2025-05-27T09:37:43.407783"
+  },
+  {
+    "attendees": [],
+    "date": "2025-05-28",
+    "time": "14:00",
+    "topic": "uniswap hook incubation programme",
+    "status": "scheduled",
+    "created_at": "2025-05-27T09:42:19.010098"
+  },
+  {
+    "attendees": [
+      "development team"
+    ],
+    "date": "2024-05-27",
+    "time": "15:00",
+    "topic": "meeting with the development team",
+    "status": "scheduled",
+    "created_at": "2025-05-27T10:19:03.119024"
+  },
+  {
+    "attendees": [
+      "development team"
+    ],
+    "date": "2024-06-03",
+    "time": "15:00",
+    "topic": "undefined",
+    "status": "scheduled",
+    "created_at": "2025-05-27T12:27:56.383753"
+  },
+  {
+    "attendees": [
+      "development team"
+    ],
+    "date": "2024-05-27",
+    "time": "15:00",
+    "topic": "meeting",
+    "status": "scheduled",
+    "created_at": "2025-06-01T16:54:34.886361"
+  }
+]
